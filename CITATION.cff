@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code or the Angular Gini, please cite the paper."
+title: "The Angular Gini: code and numerical results"
+authors:
+  - family-names: Schlemmer
+    given-names: Mario
+type: software
+repository-code: "https://github.com/FT81/ang"
+license: MIT
+preferred-citation:
+  type: article
+  title: "The Angular Gini: Weighting Pairwise Gini Contributions by Proportional Differences"
+  authors:
+    - family-names: Schlemmer
+      given-names: Mario
+  year: 2026
+  notes: "Preprint"
